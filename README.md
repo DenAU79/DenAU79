@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Denys Zdielnik
 
-[![](https://img.shields.io/badge/-Denys%20Zdielnik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denys-zdielnik/)](https://www.linkedin.com/in/denys-zdielnik/)
+[![](https://img.shields.io/badge/-Denys%20Zdielnik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denys-zdielnik-47180b221/)](https://www.linkedin.com/in/denys-zdielnik-47180b221/)
 
 I am a passionate and ambitious QA Automation Engineer who believes that web applications make a positive impact in people’s life 😄!
 
